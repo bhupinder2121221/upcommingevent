@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/upcommingevent/static/css/main.6c6b202f.chunk.css",
+    "main.js": "/upcommingevent/static/js/main.45b096cf.chunk.js",
+    "main.js.map": "/upcommingevent/static/js/main.45b096cf.chunk.js.map",
+    "runtime-main.js": "/upcommingevent/static/js/runtime-main.a5b134ac.js",
+    "runtime-main.js.map": "/upcommingevent/static/js/runtime-main.a5b134ac.js.map",
+    "static/js/2.cdccbe42.chunk.js": "/upcommingevent/static/js/2.cdccbe42.chunk.js",
+    "static/js/2.cdccbe42.chunk.js.map": "/upcommingevent/static/js/2.cdccbe42.chunk.js.map",
+    "static/js/3.fa43cf21.chunk.js": "/upcommingevent/static/js/3.fa43cf21.chunk.js",
+    "static/js/3.fa43cf21.chunk.js.map": "/upcommingevent/static/js/3.fa43cf21.chunk.js.map",
+    "index.html": "/upcommingevent/index.html",
+    "static/css/main.6c6b202f.chunk.css.map": "/upcommingevent/static/css/main.6c6b202f.chunk.css.map",
+    "static/js/2.cdccbe42.chunk.js.LICENSE.txt": "/upcommingevent/static/js/2.cdccbe42.chunk.js.LICENSE.txt",
+    "static/media/bhupinderpic.f842b976.jpg": "/upcommingevent/static/media/bhupinderpic.f842b976.jpg",
+    "static/media/nodata.58120292.png": "/upcommingevent/static/media/nodata.58120292.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5b134ac.js",
+    "static/js/2.cdccbe42.chunk.js",
+    "static/css/main.6c6b202f.chunk.css",
+    "static/js/main.45b096cf.chunk.js"
+  ]
+}
